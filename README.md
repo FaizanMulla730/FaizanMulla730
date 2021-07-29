@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and IT.
 - 🌱 I’m currently pursuing my Bachelors in Computer Engineering at AISSMS COE PUNE.
 - 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me over Gmail: faizanmulla2000@gmail.com
+- 📫 How to reach me 
 
 <!---
 FaizanMulla730/FaizanMulla730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
