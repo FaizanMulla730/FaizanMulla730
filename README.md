@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaizanMulla730
 - 👀 I’m interested in Software Development and IT.
 - 🌱 I’m currently pursuing my Bachelors in Computer Engineering at AISSMS COE PUNE.
-- 💞️ I’m looking to collaborate on  ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
 <!---
