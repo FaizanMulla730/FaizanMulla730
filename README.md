@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaizanMulla730.
+- 👋 Hi, I’m @FaizanMulla730
 - 👀 I’m interested in Data Science and Machine Learning.
 - I like to code in Java, C++ and Python. 
 - 🌱 I’m currently pursuing my Bachelors in Computer Engineering at AISSMS COE PUNE.
