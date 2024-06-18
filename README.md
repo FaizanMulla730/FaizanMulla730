@@ -1,3 +1,6 @@
+![image](https://github.com/FaizanMulla730/Professional_Aspirations/assets/73403350/e617d0f0-27c7-468a-b68d-29e802c54bfe)
+
+
 **SHORT INTRO:**
 - 👋 Hi, I’m @FaizanMulla730.  
 - 👀 I’m interested in Software Development, Data Science, and Machine Learning.
@@ -42,7 +45,7 @@ CI/CD Pipelines: Jenkins
 •	GOOGLE Training Data Analysis & Visualization in SQL                    Dec 2021
 
 •	IIT Mumbai Training Completion Certifications in Data Science & Ethical  Hacking 1st Runner Up                July 2019	
-![image](https://github.com/FaizanMulla730/Professional_Aspirations/assets/73403350/e617d0f0-27c7-468a-b68d-29e802c54bfe)
+
 
   
 
