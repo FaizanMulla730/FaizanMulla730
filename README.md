@@ -37,9 +37,7 @@ CI/CD Pipelines: Jenkins
 •	https://www.linkedin.com/in/faizanmulla730/
 •	https://github.com/FaizanMulla730
 
-CERTIFICATIONS
-
-
+**CERTIFICATIONS**
 
 •	GOOGLE Training Data Analysis & Visualization in SQL                    Dec 2021
 
