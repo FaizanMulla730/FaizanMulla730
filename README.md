@@ -1,6 +1,4 @@
 
-
-
 **SHORT INTRO:**
 
 - 👋 Hi, I’m @FaizanMulla730.  
