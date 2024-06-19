@@ -8,9 +8,11 @@
 - 💞️ I’m looking for full-time SWE/ Data Analyst roles.
 - 📫 How to reach me :
 
+
 **PROFILE SUMMARY**
 
 With a Master’s Degree in Computer Science from Cornell Ivy League University and prior 2+ Year’s relevant experience in the IT Industry, I aspire to leverage my extensive experience in Software Development Life cycle, Machine Learning, and Data Analysis, and to develop innovative solutions that drive impactful change. I am actively looking for Software Engineering, Machine Learning Engineer, or Data Analyst, Full-time roles where I can grow my expertise and contribute to a dynamic and forward-thinking company. 
+
 
   
 **- About Me:** Actively looking for Full-time Java SWE / Python MLE roles. From spearheading SWE Java & Kotlin Developments @Reliance Jio to crafting SOTA: MLE Research solutions @Cornell University, my journey illustrates a relentless drive to engineer the future of technology. 🚀 Harnessing the intersection of Cornell's Ivy League brilliance & the cutting-edge tech scene, I thrive as a visionary. I'm set to inject a fusion of scholarly prowess and industry savvy into your team. Let's embark on a journey to redefine innovation and sculpt a future where technology knows no bounds! 🚀
