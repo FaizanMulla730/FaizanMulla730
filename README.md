@@ -1,5 +1,6 @@
 
 
+
 **SHORT INTRO:**
 
 - 👋 Hi, I’m @FaizanMulla730.  
@@ -37,12 +38,14 @@ Version Control Systems: Git, GitHub
 CI/CD Pipelines: Jenkins
 
 
+
 **CONTACT INFORMATION**
 •	+1(607)-327-7988 
 •	faizanmulla2000@gmail.com
 •	frm43@cornell.edu 
 •	https://www.linkedin.com/in/faizanmulla730/
 •	https://github.com/FaizanMulla730
+
 
 **CERTIFICATIONS**
 
