@@ -34,6 +34,7 @@ Cloud Computing:  AWS, DynamoDB, EC2
 Version Control Systems: Git, GitHub
 CI/CD Pipelines: Jenkins
 
+
 **CONTACT INFORMATION**
 •	+1(607)-327-7988 
 •	faizanmulla2000@gmail.com
@@ -42,6 +43,7 @@ CI/CD Pipelines: Jenkins
 •	https://github.com/FaizanMulla730
 
 **CERTIFICATIONS**
+
 
 •	GOOGLE Training Data Analysis & Visualization in SQL                    Dec 2021
 
