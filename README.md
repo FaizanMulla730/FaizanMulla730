@@ -1,12 +1,14 @@
 
 
 **SHORT INTRO:**
+
 - 👋 Hi, I’m @FaizanMulla730.  
 - 👀 I’m interested in Software Development, Data Science, and Machine Learning.
 - I like to code in Java, C++, and Python.  
 - 🌱 I’m currently pursuing my Master's in Computer Science Engineering at Cornell University, New York U.S.A.
 - 💞️ I’m looking for full-time SWE/ Data Analyst roles.
 - 📫 How to reach me :
+
 
 
 **PROFILE SUMMARY**
